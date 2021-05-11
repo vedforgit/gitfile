@@ -54,5 +54,5 @@ git diff --staged
 git diff 
 
 12. direct commit and skipp staging area
-
+git commit -a -m "msg"
 
