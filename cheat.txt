@@ -17,6 +17,7 @@ git init
 
 6. know status
 git status
+git status -s (summeriesd)
 
 four type files
 untracked -> which not tracked by git
@@ -60,4 +61,7 @@ git commit -a -m "msg"
 13. remove file from commit
 git rm __filename__(from working dir and stagged area)
 git rm --cached __filename__
+
+
+14.
 
