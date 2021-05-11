@@ -47,3 +47,11 @@ git checkout -f (all file to previous version)
 git log
 git log -p -1 (to see last 1 commit)
 
+11. to see change file
+-> it see change in file in last commit and staging area
+git diff --staged
+-> it see change in file in workind dir and staging area
+git diff 
+
+12. 
+
