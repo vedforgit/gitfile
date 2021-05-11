@@ -63,5 +63,8 @@ git rm __filename__(from working dir and stagged area)
 git rm --cached __filename__
 
 
-14.
+14. make gitignore
+touch .gitignore
+
+
 
