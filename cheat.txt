@@ -65,6 +65,23 @@ git rm --cached __filename__
 
 14. make gitignore
 touch .gitignore
+__filename__ -> all __filename__ ingnored
+/__filename__ -> in gitignore folder file ignored
+*.log -> all log file ignored
+folder/ -> all folder filed ignored
+
+
+15. make branch 
+git branch __branchname__
+-> go to branch
+git checkout __branchname__
+-> both
+git checkout -b __branchname__
+
+
+16. git merge branch
+git merge __branchname__
+
 
 
 
