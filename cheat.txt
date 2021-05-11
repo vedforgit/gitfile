@@ -39,5 +39,11 @@ git commit
 -> :wq to exit vim editor
 git commit -m "msg"
 
-9.
+9. to get previous version of file
+git checkout _filenamme_
+git checkout -f (all file to previous version)
+
+10.  see all commit
+git log
+git log -p -1 (to see last 1 commit)
 
