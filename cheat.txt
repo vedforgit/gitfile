@@ -25,3 +25,19 @@ Modified -> which file tracked and modified
 Staged -> file go to commit 
 
 7. to add file in staging area
+git add _filename_
+git status (to see)
+-> if stagged all file
+git add -A
+
+
+8. file commit
+git commit 
+-> it open vim editor
+-> press i 
+-> type msg
+-> :wq to exit vim editor
+git commit -m "msg"
+
+9.
+
