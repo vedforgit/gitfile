@@ -56,3 +56,8 @@ git diff
 12. direct commit and skipp staging area
 git commit -a -m "msg"
 
+
+13. remove file from commit
+git rm __filename__(from working dir and stagged area)
+git rm --cached __filename__
+
