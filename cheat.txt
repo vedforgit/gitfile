@@ -1,0 +1,27 @@
+1. list file
+ls -lart
+
+2. set username and email
+git config --global user.name vedant
+git config --global user.email vedant2000raval@gmail.com
+
+3. get username and email
+git config --global user.name 
+git config --global user.email
+
+4. open vscode
+code .
+
+5. initialize
+git init
+
+6. know status
+git status
+
+four type files
+untracked -> which not tracked by git
+unmodified -> don't changed
+Modified -> which file tracked and modified
+Staged -> file go to commit 
+
+7. to add file in staging area
