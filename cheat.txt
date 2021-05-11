@@ -53,5 +53,6 @@ git diff --staged
 -> it see change in file in workind dir and staging area
 git diff 
 
-12. 
+12. direct commit and skipp staging area
+
 
